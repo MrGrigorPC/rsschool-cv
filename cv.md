@@ -8,7 +8,14 @@ None
 ### Microsoft Inovation Center
 **2022-Present  
 Web Programming**
-
+## Languages
+---
+- **Armenian - Native**
+- **Russian - C1**
+- **English - B1**
+## Skills
+---
+Technical: `HTML5` `CSS3` `JS` `Git`
 
 
 
